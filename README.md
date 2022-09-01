@@ -33,10 +33,13 @@
 - C#
 - Missing controls: 
    - Expander
-   - PrintPreview
    - TreeView with checkboxes
    - DataGrid with editable row
-   
+   - Color picker (with alpha)
+   - Sidebar with resizable grid?
+- Missing APIs:
+   - Printing and PrintPreview
+   - 3D rendering
 
 ## UWP (Universal Windows)
 - C#
