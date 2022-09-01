@@ -31,6 +31,12 @@
 
 ## MAUI
 - C#
+- Missing controls: 
+   - Expander
+   - PrintPreview
+   - TreeView with checkboxes
+   - DataGrid with editable row
+   
 
 ## UWP (Universal Windows)
 - C#
